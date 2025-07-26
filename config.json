@@ -305,6 +305,11 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "光速资源",
       "detail": "https://api.guangsuapi.com"
+    },
+    "senlinzy": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "name": "森林资源",
+      "detail": "https://beiyong.slapibf.com"
     }
   }
 }
