@@ -310,6 +310,11 @@
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "name": "森林资源",
       "detail": "https://beiyong.slapibf.com"
+    },
+    "senlinzy": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155",
+      "detail": "https://155api.com"
     }
   }
 }
