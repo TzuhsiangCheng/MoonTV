@@ -310,6 +310,12 @@
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "name": "森林资源",
       "detail": "https://beiyong.slapibf.com"
+    },
+    "api_site": {
+    "adult_site_example": {
+      "api": "https://api.redtube.com/",
+      "name": "RedTube",
+      "detail": "https://www.redtube.com/"
     }
   }
 }
